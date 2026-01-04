@@ -1,0 +1,12 @@
+// Copy all these lessons and insert them right before "// Map of all lesson content by slug"
+// in /Users/ganguly/Documents/proj3/aipath/app/src/learning/data/lessonContent.ts
+
+// Then add these slugs to lessonContentMap:
+// "zero-few-shot": zeroFewShot,
+// "chain-of-thought": chainOfThought,
+// "system-prompts": systemPrompts,
+// "role-prompting": rolePrompting,
+// "structured-prompts": structuredPrompts,
+// "prompt-chaining": promptChaining,
+// "prompt-debugging": promptDebugging,
+// "project-prompt-lib": projectPromptLib,
